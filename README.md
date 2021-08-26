@@ -2,6 +2,8 @@
 
 This project is hosted on https://tictactoe-d07d7.web.app/.
 
+![APP Image](https://github.com/Cho-Geonwoo/TicTacToe-Angular/blob/master/images/App%20Image.png)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
